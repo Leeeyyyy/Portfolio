@@ -1,5 +1,3 @@
----
-
 ## 👨‍💻 Personal Information
 
 **Name:** Noel T. Casas  
