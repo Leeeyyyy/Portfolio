@@ -1,4 +1,3 @@
-# TESDA Portfolio - Java NC III
 
 Hi! I'm Noel T. Casas, a fourth-year Bachelor of Science in Information Technology student from Universidad de Manila. This repository serves as my TESDA Java NC III portfolio where I compile laboratory activities, exercises, practice programs, and learning outputs throughout my training journey.
 
